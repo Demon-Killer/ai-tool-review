@@ -1,4 +1,4 @@
-baseURL = 'https://yourdomain.com/'
+baseURL = 'https://ai-tool-review.pages.dev/'
 locale = 'en-us'
 title = 'AI Tool Radar - Honest Reviews & Comparisons'
 theme = 'PaperMod'
@@ -14,6 +14,9 @@ theme = 'PaperMod'
   ShowWordCount = true
   description = "In-depth reviews, comparisons, and guides for the best AI tools in 2026. We test every tool so you don't have to."
   author = 'AI Tool Radar Team'
+
+  [params.verify]
+    google = '9HkhOK3lCop1FhvC4vw9BLWEFlvsA2fX9VsxgW8rQKs'
   keywords = ['AI tools', 'AI reviews', 'AI comparisons', 'best AI tools 2026']
 
   [params.homeInfoParams]
