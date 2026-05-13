@@ -1,0 +1,63 @@
+baseURL = 'https://yourdomain.com/'
+locale = 'en-us'
+title = 'AI Tool Radar - Honest Reviews & Comparisons'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowWordCount = true
+  description = "In-depth reviews, comparisons, and guides for the best AI tools in 2026. We test every tool so you don't have to."
+  author = 'AI Tool Radar Team'
+  keywords = ['AI tools', 'AI reviews', 'AI comparisons', 'best AI tools 2026']
+
+  [params.homeInfoParams]
+    Title = 'AI Tool Radar'
+    Content = 'Honest, in-depth reviews and comparisons of the best AI tools. We test every tool hands-on so you can pick the right one.'
+
+  [[params.socialIcons]]
+    name = 'twitter'
+    url = 'https://twitter.com/'
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/'
+
+[params.assets]
+  favicon = '/favicon.ico'
+
+[outputs]
+  home = ['HTML', 'RSS']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = 'dracula'
+    lineNos = false
+
+[[menu.main]]
+  identifier = 'categories'
+  name = 'Categories'
+  url = '/categories/'
+  weight = 10
+[[menu.main]]
+  identifier = 'tags'
+  name = 'Tags'
+  url = '/tags/'
+  weight = 20
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  url = '/about/'
+  weight = 30
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
