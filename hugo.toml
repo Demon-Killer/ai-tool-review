@@ -12,6 +12,8 @@ theme = 'PaperMod'
   ShowCodeCopyButtons = true
   ShowRssButtonInSectionTermList = true
   ShowWordCount = true
+  ShowFullTextinRSS = true
+  showDescriptionInList = true
   description = "In-depth reviews, comparisons, and guides for the best AI tools in 2026. We test every tool so you don't have to."
   author = 'AI Tool Radar Team'
 

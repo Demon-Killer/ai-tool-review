@@ -1,0 +1,154 @@
+/* Custom styles for AI Tool Radar */
+
+/* Better post entry cards */
+.post-entry {
+    border-radius: 12px;
+    margin-bottom: 1.5rem;
+    padding: 1.5rem;
+    border: 1px solid var(--border);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.post-entry:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.first-entry {
+    border-radius: 12px;
+    border: 1px solid var(--border);
+}
+
+/* Entry header styling */
+.entry-header h2 {
+    font-size: 1.4rem;
+    font-weight: 700;
+    line-height: 1.3;
+    margin-bottom: 0.5rem;
+}
+
+/* Better summary text */
+.entry-content p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--secondary);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Better footer/meta styling */
+.entry-footer {
+    margin-top: 0.75rem;
+    font-size: 0.85rem;
+}
+
+/* Tag styling */
+.post-tags .tag {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    background: var(--code-bg);
+    color: var(--secondary);
+    margin-right: 0.3rem;
+    text-decoration: none;
+    transition: background 0.2s;
+}
+
+.post-tags .tag:hover {
+    background: var(--link-color);
+    color: white;
+}
+
+/* Home info section */
+.home-info {
+    margin-bottom: 2rem;
+}
+
+.home-info h1 {
+    font-size: 2rem;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+}
+
+.home-info p {
+    font-size: 1.1rem;
+    color: var(--secondary);
+    max-width: 600px;
+}
+
+/* Page header */
+.page-header h1 {
+    font-weight: 800;
+}
+
+/* Better code blocks */
+.highlight {
+    border-radius: 8px;
+}
+
+/* Table styling */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1.5rem 0;
+    font-size: 0.9rem;
+}
+
+table th {
+    background: var(--code-bg);
+    font-weight: 700;
+    text-align: left;
+    padding: 0.75rem 1rem;
+    border-bottom: 2px solid var(--border);
+}
+
+table td {
+    padding: 0.6rem 1rem;
+    border-bottom: 1px solid var(--border);
+}
+
+table tr:hover td {
+    background: var(--code-bg);
+}
+
+/* Responsive table wrapper */
+.post-content table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+/* Better links in articles */
+.post-content a {
+    text-decoration: underline;
+    text-decoration-color: var(--link-color);
+    text-underline-offset: 2px;
+    text-decoration-thickness: 1px;
+}
+
+.post-content a:hover {
+    text-decoration-thickness: 2px;
+}
+
+/* Pagination styling */
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem 0;
+}
+
+.pagination a {
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    text-decoration: none;
+    transition: background 0.2s;
+}
+
+.pagination a:hover {
+    background: var(--code-bg);
+}
