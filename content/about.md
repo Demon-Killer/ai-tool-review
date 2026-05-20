@@ -26,6 +26,6 @@ AI Tool Radar is an independent review site dedicated to helping you find the be
 
 ### Contact Us
 
-Have a question or want us to review a specific AI tool? Reach out to us at **hello@yourdomain.com**.
+Have a question or want us to review a specific AI tool? Visit our [Contact page](/contact/) to get in touch.
 
 *Note: Some links on this site may be affiliate links. This means we may earn a small commission if you make a purchase through our links, at no extra cost to you. This helps us keep the site running and continue providing free reviews.*
