@@ -13,10 +13,10 @@ We would love to hear from you. Whether you have a question about our reviews, w
 ### Email
 
 For general inquiries and feedback:
-**aitoolradar@gmail.com**
+**lidonson666@gmail.com**
 
 For partnership and sponsorship inquiries:
-**aitoolradar@gmail.com**
+**lidonson666@gmail.com**
 
 ### Social Media
 
