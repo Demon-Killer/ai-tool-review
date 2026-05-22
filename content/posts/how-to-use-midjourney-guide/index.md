@@ -1,258 +1,190 @@
 ---
-title: "How to Use Midjourney in 2026: Complete Beginner's Guide with Real Examples"
-description: "Learn Midjourney from zero to advanced. Step-by-step setup, prompting basics, 20+ real prompt examples with results, parameters explained, and pro tips for stunning AI images."
+title: "How to Use Midjourney in 2026: Setup, Pricing, and Prompting Guide"
+description: "A complete guide to Midjourney covering verified pricing, how to set up, prompting basics, parameters, and practical tips for creating professional AI images. Includes real prompt examples and parameter explanations."
 date: 2026-05-13
 draft: false
 tags: ["midjourney", "ai-image", "guide", "tutorial", "prompt-engineering"]
 categories: ["guides"]
 ---
 
-Midjourney produces the most visually stunning AI images available. But it has a learning curve - the quality of your output depends heavily on how you write prompts. This guide takes you from zero to creating professional-quality images.
-
-## Step 1: Set Up Midjourney
-
-Midjourney runs through Discord (a chat app). Here is how to start:
-
-1. **Create a Discord account** at discord.com (free)
-2. **Subscribe to Midjourney** at midjourney.com (plans start at $10/month)
-3. **Join the Midjourney Discord server** (link provided after subscribing)
-4. **Go to any newbies channel** or your own Discord server with the Midjourney bot
-
-**Alternative:** Midjourney now also has a web interface at midjourney.com/imagine. This is easier for beginners than Discord.
-
-## Step 2: Your First Image
-
-Type `/imagine` and then your prompt. Press Enter.
-
-**Your first prompt:**
-```
-/imagine prompt: a golden retriever running on a beach at sunset
-```
-
-Midjourney generates 4 variations. Click any image to enlarge, or use the U1-U4 buttons to upscale a specific image.
-
-## Step 3: Understanding Prompt Structure
-
-Good Midjourney prompts follow this structure:
-
-```
-[Subject] + [Setting/Environment] + [Style] + [Lighting/Mood] + [Technical Parameters]
-```
-
-**Example breakdown:**
-```
-A medieval knight (subject)
-standing in a foggy forest at dawn (setting)
-oil painting style, dramatic (style)
-golden hour light, cinematic (lighting)
---ar 16:9 (technical: aspect ratio)
-```
-
-### Basic Prompt Examples
-
-**Portrait:**
-```
-/imagine prompt: portrait of an elderly fisherman, weathered face, kind eyes, wearing a wool sweater, natural window light, film photography, 85mm lens --ar 4:5
-```
-
-**Landscape:**
-```
-/imagine prompt: misty mountain valley at sunrise, wildflowers in foreground, layered fog, golden light piercing through, atmospheric, national geographic style --ar 16:9
-```
-
-**Product shot:**
-```
-/imagine prompt: luxury watch product photography, on dark marble surface, dramatic side lighting, water droplets, macro detail, commercial photography --ar 16:9
-```
-
-**Architecture:**
-```
-/imagine prompt: modern minimalist house with floor-to-ceiling windows, surrounded by Japanese maple trees, autumn, concrete and glass, architectural photography --ar 16:9
-```
-
-**Character design:**
-```
-/imagine prompt: female cyberpunk mechanic, neon-lit workshop, mechanical arm, confident pose, detailed character design, concept art style --ar 2:3
-```
-
-## Step 4: Key Parameters You Need to Know
-
-Parameters go at the end of your prompt and control technical aspects:
-
-### Aspect Ratio (--ar)
-```
---ar 16:9    Wide (landscapes, desktop wallpapers)
---ar 9:16    Tall (phone wallpapers, social stories)
---ar 4:5     Portrait (Instagram posts)
---ar 1:1     Square (profile pictures, thumbnails)
---ar 3:2     Classic photo ratio
-```
-
-### Style Raw (--style raw)
-Makes images more photorealistic and less "Midjourney artistic":
-```
-/imagine prompt: professional headshot of a woman, studio lighting --style raw
-```
-
-### Stylize (--s)
-Controls how artistic Midjourney makes the image:
-```
---s 0       Minimal artistic interpretation
---s 100     Default
---s 250     More artistic (recommended for creative work)
---s 750     Maximum artistic interpretation
-```
-
-### Chaos (--c)
-Controls how different the 4 variations are from each other:
-```
---c 0       Very similar variations
---c 50      Default
---c 100     Very different variations (good for exploration)
-```
-
-### Quality (--q)
-Controls rendering quality and time:
-```
---q 0.25    Fast, lower quality
---q 0.5     Balanced
---q 1       Default quality
-```
-
-### Stop (--stop)
-Stop generation early for a more painterly, less detailed result:
-```
---stop 50   Very painterly
---stop 80   Slightly unfinished look
---stop 100  Full detail (default)
-```
-
-## Step 5: Advanced Prompting Techniques
-
-### Reference Images (--ref)
-Use an existing image as a style or composition reference:
-```
-/imagine prompt: mountain cabin in snow, cozy --ref [image_url] --ref-weight 50
-```
-
-### Character Reference (--cref)
-Maintain the same character across multiple images:
-```
-/imagine prompt: same character reading a book in a library --cref [character_image_url] --cw 100
-```
-
-### Multi-Prompting (::)
-Give different weights to different parts of the prompt:
-```
-/imagine prompt: red apple::3 dark background::1 dramatic lighting::2
-```
-Higher numbers = more emphasis on that element.
-
-### Negative Prompting (--no)
-Exclude elements you do not want:
-```
-/imagine prompt: clean product photo of headphones --no text, watermark, people
-```
-
-## Step 6: Style Keywords That Make a Difference
-
-Adding style keywords dramatically improves results:
-
-**Photography styles:**
-```
-film photography, polaroid, disposable camera, editorial photography,
-fashion photography, street photography, macro photography
-```
-
-**Art styles:**
-```
-watercolor, oil painting, ink drawing, pencil sketch, charcoal,
-art nouveau, art deco, ukiyo-e, impressionist, minimalist
-```
-
-**Lighting:**
-```
-golden hour, blue hour, dramatic lighting, studio lighting,
-volumetric lighting, neon glow, candlelight, backlighting
-```
-
-**Camera/lens:**
-```
-35mm, 85mm portrait, wide angle, macro lens, tilt-shift,
-shallow depth of field, bokeh, motion blur
-```
-
-**Mood/atmosphere:**
-```
-dreamy, ethereal, cinematic, moody, dark academia,
-cozy, vibrant, muted colors, desaturated, high contrast
-```
-
-## Complete Prompt Examples by Category
-
-### Social Media Post
-```
-/imagine prompt: flat lay of coffee, notebook, and laptop on wooden table, warm tones, cozy aesthetic, overhead shot, natural morning light --ar 4:5 --style raw --s 150
-```
-
-### YouTube Thumbnail
-```
-/imagine prompt: dramatic reaction face of young man looking shocked, colorful background with explosion effects, dynamic lighting, high energy, YouTube thumbnail style --ar 16:9
-```
-
-### Blog Header
-```
-/imagine prompt: abstract representation of artificial intelligence, flowing neural network patterns, blue and purple gradient, dark background, futuristic, clean minimal design --ar 21:9 --s 200
-```
-
-### Fantasy Art
-```
-/imagine prompt: ancient dragon perched on a crystal mountain, bioluminescent crystals glowing in cave, magical atmosphere, detailed fantasy illustration, epic scale, dramatic perspective --ar 16:9 --s 400
-```
-
-### Real Estate Photo
-```
-/imagine prompt: modern open-plan kitchen and living room, floor-to-ceiling windows with ocean view, white marble countertops, Scandinavian design, bright natural light, architectural photography --ar 16:9 --style raw
-```
-
-## Common Mistakes to Avoid
-
-1. **Too many words**: Midjourney works best with focused prompts (20-60 words). Longer is not better.
-
-2. **Contradicting instructions**: "photorealistic cartoon" confuses the AI. Pick one direction.
-
-3. **Forgetting aspect ratio**: Default is square. Most uses need 16:9 or 4:5.
-
-4. **Not iterating**: The V1-V4 buttons create variations. Use them to refine your results.
-
-5. **Ignoring style keywords**: "A dog on a beach" vs "A dog on a beach, golden hour, film photography, shallow depth of field" produces dramatically different results.
+Midjourney produces some of the most visually striking AI images available. Unlike simple text-to-image tools, Midjourney rewards skilled prompting with dramatically better results. This guide covers setup, pricing, and how to write prompts that produce professional-quality images.
 
 ## Pricing
 
-| Plan | Price | Fast Hours | Features |
-|------|-------|-----------|----------|
-| Basic | $10/mo | ~200 images | Core features, commercial use |
-| Standard | $30/mo | 15 fast hours | Unlimited relaxed mode, more features |
-| Pro | $60/mo | 30 fast hours | Stealth mode, max upscale |
-| Mega | $120/mo | 60 fast hours | Maximum capacity |
+**Verified pricing** ([Midjourney Docs](https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans), [FluxNote](https://fluxnote.io/guides/midjourney-pricing-guide-2026)):
 
-## FAQ
+| Plan | Monthly | Annual (per month) | Images (approx) |
+|------|---------|-------------------|----------------|
+| Basic | $10/mo | $8/mo | ~200 images |
+| Standard | $30/mo | $24/mo | 900+ (Fast) + unlimited Relax |
+| Pro | $60/mo | $48/mo | Stealth mode, more Fast hours |
+| Mega | $120/mo | — | Maximum GPU time |
 
-### Do I own the images I create?
-Yes, with a paid subscription you have commercial rights to images you generate. Free trial images cannot be used commercially.
+All plans include commercial usage rights. There is no free tier. Annual billing saves approximately 20%.
 
-### Can I use Midjourney without Discord?
-Yes, the web interface at midjourney.com/imagine is now available. Discord is no longer required.
+**Which plan to start with:** Basic ($10/month) gives you roughly 200 images to learn prompting. Upgrade to Standard ($30/month) when you need more generations or want unlimited Relax mode (slower but unlimited).
 
-### Why are my images not as good as others I see?
-Prompt quality makes a huge difference. Use specific style keywords, proper aspect ratios, and iterate with variations. The examples in this guide are a good starting point.
+## Setup
 
-### Can Midjourney do text in images?
-It can render simple text but it is not reliable. For text-heavy designs, use Canva or Photoshop instead.
+1. Go to [midjourney.com](https://midjourney.com/) and create an account
+2. Subscribe to a plan (Basic minimum)
+3. Access via Discord (traditional) or the Midjourney web interface (recommended in 2026)
+4. Type `/imagine` followed by your prompt to generate images
 
-### How do I get consistent results?
-Use the same seed (--seed), character reference (--cref), and style reference (--ref) across generations. Consistent prompting takes practice.
+## Prompting Basics
+
+Midjourney prompts follow a structure: **subject + style + composition + parameters**
+
+### Basic Prompt
+
+```
+a golden retriever running on a beach at sunset, warm lighting,
+shallow depth of field, film photography style
+```
+
+This produces a solid result. But you can improve it with more specific direction.
+
+### Improved Prompt
+
+```
+a golden retriever running through shallow waves on a sandy
+beach, golden hour lighting, lens flare, shot on Kodak Portra
+400, 85mm lens, shallow depth of field, warm color palette,
+cinematic composition --ar 16:9 --v 6.1
+```
+
+The second prompt specifies lens type, film stock, composition, and aspect ratio. This level of detail produces significantly better results.
+
+## Key Parameters
+
+Parameters control how Midjourney generates your image. They go at the end of your prompt.
+
+### Aspect Ratio: `--ar`
+
+```
+--ar 16:9    (landscape, good for YouTube thumbnails)
+--ar 9:16    (portrait, good for Instagram Stories)
+--ar 1:1     (square, good for profile images)
+--ar 21:9    (ultra-wide, cinematic)
+```
+
+### Stylize: `--s`
+
+Controls how much artistic interpretation Midjourney applies.
+
+```
+--s 0        (most literal, least artistic)
+--s 100      (default)
+--s 250      (moderately artistic)
+--s 750      (very artistic, less literal)
+```
+
+### Quality: `--q`
+
+Controls rendering quality (and GPU time).
+
+```
+--q 0.25     (fast, lower quality)
+--q 0.5      (balanced)
+--q 1        (default quality)
+```
+
+### Chaos: `--c`
+
+Controls variation between the four generated images.
+
+```
+--c 0        (consistent, similar results)
+--c 50       (moderate variation)
+--c 100      (maximum variation)
+```
+
+### Negative Prompt: `--no`
+
+Exclude elements from the generation.
+
+```
+--no blur, text, watermark
+```
+
+### Model Version: `--v`
+
+```
+--v 6.1      (current default, best quality)
+--v 6        (previous version)
+--niji 6     (anime/manga style)
+```
+
+## Prompt Examples by Use Case
+
+### Product Photography
+
+```
+minimalist product photography of a ceramic coffee mug on
+a white marble surface, soft studio lighting, clean
+background, commercial photography style, sharp focus,
+professional color grading --ar 4:3 --s 150 --v 6.1
+```
+
+### Portrait
+
+```
+environmental portrait of a woman in her 30s, natural
+lighting, looking slightly off-camera, urban background
+with bokeh, shot on Hasselblad, warm skin tones, magazine
+editorial style --ar 3:4 --s 200 --v 6.1
+```
+
+### Landscape
+
+```
+aerial view of a winding river through autumn forest,
+vibrant orange and red foliage, misty morning, dramatic
+lighting, National Geographic style, ultra high detail,
+photorealistic --ar 16:9 --s 300 --v 6.1
+```
+
+### Logo Concept
+
+```
+minimalist logo design for a tech startup, geometric fox
+icon, clean lines, flat design, white background, modern
+and professional, vector style --ar 1:1 --s 100 --v 6.1
+```
+
+### Architecture
+
+```
+modern sustainable house with floor-to-ceiling windows,
+integrated into a hillside landscape, golden hour, warm
+interior lighting visible through glass, architectural
+photography by Iwan Baan --ar 16:9 --s 200 --v 6.1
+```
+
+## Practical Tips
+
+**1. Be specific about camera and lens.** Mentioning "shot on Hasselblad" or "85mm lens" or "Kodak Portra 400" produces more photographic results because Midjourney was trained on images with these EXIF tags.
+
+**2. Reference artistic styles.** "In the style of Studio Ghibli" or " Wes Anderson color palette" produces more distinctive results than generic descriptions.
+
+**3. Use negative prompts for cleanup.** `--no text, watermark, blur, deformed` helps avoid common AI image artifacts.
+
+**4. Iterate on good results.** Use the Vary (Strong) and Vary (Subtle) buttons to refine images that are close to what you want. This is more efficient than re-generating from scratch.
+
+**5. Upscale before using.** Always upscale your final selection before downloading. Midjourney's upscalers produce sharper, more detailed output.
+
+## What Midjourney Cannot Do
+
+- **Consistent text rendering.** Midjourney struggles with readable text in images. For text-heavy designs, use Canva or Photoshop after generating the base image.
+- **Exact reproducibility.** The same prompt produces different results each time. If you need exact control, Midjourney is not the right tool.
+- **Real people.** Midjourney restricts generation of real public figures. For portraits, use generic descriptions.
+- **Precise layouts.** You cannot specify exact positioning of elements. Describe the composition and accept Midjourney's interpretation.
+
+## Sources
+
+- [Midjourney Plan Comparison](https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans)
+- [Midjourney Pricing Guide 2026 — FluxNote](https://fluxnote.io/guides/midjourney-pricing-guide-2026)
 
 ## Bottom Line
 
-Start with simple prompts using the structure: **Subject + Setting + Style + Lighting + Parameters**. Iterate with variations. Add style keywords to level up your results. Midjourney rewards practice - the more you use it, the better your prompts become.
+Start with **Basic** ($10/month) to learn prompting. Upgrade to **Standard** ($30/month) when you need more generations. Spend time learning specific prompts for your use case — the difference between a basic prompt and a detailed one is dramatic. Midjourney rewards specificity with quality.
