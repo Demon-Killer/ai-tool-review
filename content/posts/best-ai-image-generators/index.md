@@ -202,6 +202,12 @@ No coding, but significant technical setup. You need to install a UI (ComfyUI or
 - Leonardo.ai: https://leonardo.ai/
 - Runway (for video generation comparison): https://runwayml.com/pricing
 
+## Related Articles
+
+- [How to Use Midjourney: Setup and Prompting Guide](/posts/how-to-use-midjourney-guide/)
+- [AI Photo Editing Tools Compared](/posts/best-ai-photo-editing-tools/)
+- [AI Video Generation Tools Compared](/posts/ai-video-generation-tools/)
+- [AI Design Tools for Non-Designers](/posts/best-ai-design-tools-non-designers/)
 ## Bottom Line
 
 **Midjourney** for the best quality ($10/month minimum). **DALL-E 3** for ease of use (free with ChatGPT). **Adobe Firefly** for commercial safety ($9.99-19.99/month). **Stable Diffusion** for free unlimited generation (requires GPU). Most creators benefit from using DALL-E 3 for quick tasks and Midjourney for anything requiring high visual quality.

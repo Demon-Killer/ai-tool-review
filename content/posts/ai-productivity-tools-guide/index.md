@@ -75,6 +75,12 @@ ChatGPT Free for email drafting. If you send 10+ emails per day, AI drafting sav
 ### How do I avoid over-relying on AI?
 Use AI for tasks you already know how to do but find tedious. Do not use AI for tasks you need to learn — the learning happens in the doing.
 
+## Related Articles
+
+- [Best Free AI Tools That Cost Nothing](/posts/best-free-ai-tools/)
+- [AI Tools for Freelancers: Run a Solo Business](/posts/ai-tools-for-freelancers/)
+- [AI Note-Taking Apps Compared](/posts/best-ai-note-taking-apps/)
+
 ## Bottom Line
 
 **ChatGPT Free + Claude Free + Perplexity Free + Notion Free.** Four free tools that cover writing, research, email, and organization. Skip dedicated AI productivity apps — the general-purpose tools are better and cheaper (free).

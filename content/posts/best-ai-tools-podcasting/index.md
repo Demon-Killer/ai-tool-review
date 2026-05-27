@@ -152,6 +152,11 @@ No. AI handles mechanical tasks (filler removal, noise reduction, leveling) well
 - [Otter.ai Official Pricing](https://otter.ai/pricing)
 - [Descript Pricing 2026 — Fluxnote](https://fluxnote.io/guides/descript-pricing-2026)
 
+## Related Articles
+
+- [AI Voice Generation Compared](/posts/ai-voice-generators-comparison/)
+- [AI Transcription Tools Compared](/posts/best-ai-transcription-tools/)
+- [AI Tools for Content Creators](/posts/ai-tools-content-creators/)
 ## Bottom Line
 
 **Descript Hobbyist** ($16/month annual) for podcast editing — text-based editing and filler removal save hours per episode. **Whisper** (free, local) for unlimited transcription if you are comfortable with Python. **ChatGPT Free** for planning, show notes, and content ideas. Start with Descript's free tier (60 minutes/month) to test the workflow before committing.

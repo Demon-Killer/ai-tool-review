@@ -133,6 +133,13 @@ Disclose AI use for administrative tasks. Clients care about deliverable quality
 ### Can I really freelance in 15 hours a week?
 Yes, if you use AI for everything except the specialized work clients pay for. The 15 hours is billable + essential operations. Add 3-5 hours for learning.
 
+## Related Articles
+
+- [AI Productivity Tools: The Complete Guide](/posts/ai-productivity-tools-guide/)
+- [Best Free AI Tools That Cost Nothing](/posts/best-free-ai-tools/)
+- [AI Email Writing Tools: Draft and Reply Faster](/posts/ai-email-writing-tools/)
+- [AI Tools for Small Business: Cut Software Costs](/posts/best-ai-tools-small-business/)
+
 ## Bottom Line
 
 **ChatGPT Free** for proposals, emails, and contracts. **Claude Free** for writing and difficult communication. **Perplexity Free** for research. **Canva Free** for marketing materials. Four free tools that let you run a solo business in 15 hours per week.

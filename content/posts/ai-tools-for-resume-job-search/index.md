@@ -147,6 +147,11 @@ Most recruiters cannot tell and do not care. They care about whether your qualif
 - [Jobscan Pricing — Careery.pro](https://careery.pro/blog/resume-applications/is-jobscan-worth-it-2026)
 - [Teal HQ Review — ResumeHog](https://resumehog.com/blog/posts/teal-hq-review-2026-is-this-job-search-tool-worth-it.html)
 
+## Related Articles
+
+- [Best Free AI Tools That Cost Nothing](/posts/best-free-ai-tools/)
+- [Best AI Writing Tools Compared](/posts/best-ai-writing-tools-2026/)
+- [AI Tools for Freelancers: Run a Solo Business](/posts/ai-tools-for-freelancers/)
 ## Bottom Line
 
 **ChatGPT Free + Claude Free** for resume writing, cover letters, and interview preparation. **Jobscan Free** (5 scans/month) to check ATS compatibility. **Teal+** ($29/month) only if you need centralized job tracking across many applications. For most job seekers, the free stack covers everything you need.
