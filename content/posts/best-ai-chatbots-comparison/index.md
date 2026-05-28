@@ -1,6 +1,6 @@
 ---
 title: "AI Chatbots in 2026: ChatGPT, Claude, Gemini, and Copilot Compared"
-description: "A comparison of the major AI chatbots in 2026 — ChatGPT, Claude, Gemini, Copilot, Grok, and DeepSeek — covering verified pricing, context windows, API availability, and practical recommendations for each use case."
+description: "AI chatbots compared — ChatGPT, Claude, Gemini, Copilot, Grok, and DeepSeek. Verified pricing, context windows, and best use cases."
 date: 2026-05-14
 draft: false
 tags: ["chatbots", "chatgpt", "claude", "gemini", "comparison", "ai-assistant"]

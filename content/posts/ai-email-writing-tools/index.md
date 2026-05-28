@@ -1,6 +1,6 @@
 ---
 title: "AI Email Writing Tools in 2026: Draft, Reply, and Manage Email Faster"
-description: "A practical guide to using AI for email writing with ChatGPT and Claude. Covers prompt templates for difficult emails, follow-ups, and professional communication, plus when AI email assistance helps and when it does not."
+description: "Use ChatGPT and Claude to write emails faster. Includes prompt templates for difficult emails, follow-ups, and professional communication."
 date: 2026-05-13
 draft: false
 tags: ["email", "ai-tools", "productivity", "communication", "writing"]

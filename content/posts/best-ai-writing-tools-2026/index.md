@@ -1,6 +1,6 @@
 ---
 title: "Best AI Writing Tools in 2026: ChatGPT, Claude, Jasper, Grammarly, and More"
-description: "A practical comparison of AI writing tools with verified 2026 pricing — ChatGPT, Claude, Jasper, Grammarly, Copy.ai, Writesonic, and Rytr. Covers which tool produces the best output for each writing task, from blog posts to marketing copy to emails."
+description: "AI writing tools compared — ChatGPT, Claude, Jasper, Grammarly, and more. Verified 2026 pricing and best tool for each writing task."
 date: 2026-05-13
 draft: false
 tags: ["ai-writing", "chatgpt", "claude", "jasper", "content-creation"]

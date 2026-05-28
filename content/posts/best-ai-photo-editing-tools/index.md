@@ -1,6 +1,6 @@
 ---
 title: "AI Photo Editing Tools in 2026: Photoshop, Canva, Luminar, and Free Options Compared"
-description: "A practical comparison of AI photo editing tools with verified pricing — Adobe Photoshop Firefly, Canva Pro, Luminar Neo, and free alternatives. Covers generative fill, background removal, and when each tool is worth paying for."
+description: "AI photo editing tools compared — Photoshop Firefly, Canva Pro, Luminar Neo, and free alternatives. Verified pricing."
 date: 2026-05-18
 draft: false
 tags: ["photo-editing", "ai-tools", "image-editing", "adobe", "canva"]

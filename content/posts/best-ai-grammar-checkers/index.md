@@ -1,6 +1,6 @@
 ---
 title: "AI Grammar Checkers in 2026: Which One Actually Catches Your Mistakes"
-description: "A comparison of Grammarly Pro, ProWritingAid, LanguageTool, and QuillBot based on verified pricing, feature differences, and practical use cases. Covers API availability, self-hosting options, and when each tool is worth paying for."
+description: "Grammarly vs ProWritingAid vs LanguageTool vs QuillBot. Verified pricing, API options, and when each grammar checker is worth paying for."
 date: 2026-05-15
 draft: false
 tags: ["grammar", "writing", "grammarly", "ai-tools", "productivity"]

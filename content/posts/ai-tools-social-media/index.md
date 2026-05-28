@@ -1,6 +1,6 @@
 ---
 title: "AI Tools for Social Media Management in 2026: Content Creation, Scheduling, and Analytics"
-description: "A practical comparison of AI social media tools with verified pricing — Buffer, Hootsuite, ChatGPT for content creation, and Canva for visuals. Covers what AI handles well for social media and where manual input is still necessary."
+description: "AI social media tools compared — Buffer, Hootsuite, ChatGPT, and Canva. Verified pricing and what AI handles well vs where manual work wins."
 date: 2026-05-13
 draft: false
 tags: ["social-media", "marketing", "ai-tools", "content-creation", "instagram", "linkedin"]

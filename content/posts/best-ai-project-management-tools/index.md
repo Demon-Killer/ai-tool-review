@@ -1,6 +1,6 @@
 ---
 title: "AI Project Management Tools in 2026: Notion, Monday.com, Asana, and ClickUp Compared"
-description: "A practical comparison of AI-powered project management tools with verified pricing. Covers Notion AI, Monday.com, Asana, and ClickUp Brain — their AI features, pricing, and when each tool is worth paying for."
+description: "AI project management tools compared — Notion, Monday.com, Asana, and ClickUp Brain. Verified pricing and AI features."
 date: 2026-05-13
 draft: false
 tags: ["project-management", "ai-tools", "productivity", "team-management"]

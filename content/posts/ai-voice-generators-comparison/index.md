@@ -1,6 +1,6 @@
 ---
 title: "AI Voice Generation in 2026: A Production Engineer's Deep Dive into TTS Quality, Latency, and Integration"
-description: "A technical comparison of ElevenLabs, OpenAI TTS, Play.ht, and open-source TTS models from a production engineering perspective. Covers API pricing models, rate limits, streaming architecture, SSML support gaps, and the real cost of open-source TTS."
+description: "ElevenLabs vs OpenAI TTS vs Play.ht compared. API pricing, rate limits, streaming architecture, and real production costs."
 date: 2026-05-13
 draft: false
 tags: ["voice-generation", "text-to-speech", "elevenlabs", "ai-audio", "tts-engineering"]

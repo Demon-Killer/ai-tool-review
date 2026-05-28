@@ -1,6 +1,6 @@
 ---
 title: "AI Tools for E-Commerce in 2026: What Actually Works for Online Stores"
-description: "A practical comparison of AI tools for e-commerce operations — Shopify Magic, Klaviyo AI, Tidio, and general-purpose AI like ChatGPT. Covers verified pricing, integration requirements, and where AI genuinely saves time vs. where it creates overhead."
+description: "AI tools for e-commerce — Shopify Magic, Klaviyo, Tidio, and ChatGPT. Verified pricing and where AI saves time vs creates overhead."
 date: 2026-05-15
 draft: false
 tags: ["ecommerce", "ai-tools", "online-store", "marketing", "business"]

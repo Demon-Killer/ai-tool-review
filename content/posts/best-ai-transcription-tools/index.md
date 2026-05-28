@@ -1,6 +1,6 @@
 ---
 title: "AI Transcription Tools in 2026: Otter.ai, Descript, Rev, and OpenAI Whisper Compared"
-description: "A comparison of AI transcription tools with verified pricing — Otter.ai, Descript, Rev AI, and OpenAI Whisper. Covers accuracy, per-minute costs, free tier limits, and which tool to use for meetings, podcasts, and video captions."
+description: "AI transcription tools compared — Otter.ai, Descript, Rev AI, and Whisper. Verified pricing, accuracy, and free tier limits."
 date: 2026-05-14
 draft: false
 tags: ["transcription", "speech-to-text", "otter", "whisper", "productivity"]

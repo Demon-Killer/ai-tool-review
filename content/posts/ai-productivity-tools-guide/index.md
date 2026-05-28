@@ -1,6 +1,6 @@
 ---
 title: "AI Productivity Tools in 2026: The Complete Guide to Getting More Done"
-description: "A practical guide to AI productivity tools covering task management, calendar optimization, note-taking, email, and focus. Focuses on free tools that genuinely save time rather than creating new overhead."
+description: "Free AI productivity tools covering task management, email, notes, and focus. Only tools that genuinely save time, not create overhead."
 date: 2026-05-13
 draft: false
 tags: ["productivity", "ai-tools", "automation", "time-management", "workflow"]

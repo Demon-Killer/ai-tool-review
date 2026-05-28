@@ -1,6 +1,6 @@
 ---
 title: "AI Coding Assistants in 2026: GitHub Copilot, Cursor, Claude Code, and Alternatives Compared"
-description: "A comparison of AI coding assistants with verified pricing — GitHub Copilot, Cursor, Claude Code, and free alternatives. Covers what each tool does well, pricing models, and which to choose based on your development workflow."
+description: "AI coding assistants compared — GitHub Copilot, Cursor, Claude Code, and free alternatives. Verified pricing and best use cases."
 date: 2026-05-13
 draft: false
 tags: ["coding", "ai-tools", "copilot", "cursor", "developer-tools", "ide"]

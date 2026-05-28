@@ -1,6 +1,6 @@
 ---
 title: "AI Translation Tools in 2026: DeepL, Google Translate, ChatGPT, and Cloud APIs Compared"
-description: "A technical comparison of AI translation tools covering DeepL, Google Cloud Translation, Amazon Translate, Azure Translator, and LLM-based translation. Includes verified per-character pricing, language support, API rate limits, and quality benchmarks from academic studies."
+description: "AI translation compared — DeepL, Google, Amazon, Azure, and LLM-based. Per-character pricing, API limits, and quality benchmarks."
 date: 2026-05-15
 draft: false
 tags: ["translation", "ai-tools", "language", "deepl", "productivity"]

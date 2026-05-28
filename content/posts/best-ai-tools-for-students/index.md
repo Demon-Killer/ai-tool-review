@@ -1,6 +1,6 @@
 ---
 title: "Best AI Tools for Students in 2026: What Actually Helps You Study"
-description: "A practical guide to AI tools for students covering research, writing, math, coding, and exam preparation. Verified pricing, honest limitations, and specific prompt templates for each academic task."
+description: "AI tools for students — research, writing, math, coding, and exam prep. Verified pricing, honest limitations, and prompt templates."
 date: 2026-05-13
 draft: false
 tags: ["students", "ai-tools", "education", "productivity", "study"]

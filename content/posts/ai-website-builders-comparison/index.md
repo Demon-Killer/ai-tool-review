@@ -1,6 +1,6 @@
 ---
 title: "AI Website Builders in 2026: Wix, Hostinger, Framer, and Squarespace Compared"
-description: "A practical comparison of AI website builders with verified pricing, feature differences, and when each platform is the right choice. Covers Wix AI, Hostinger, Framer, and Squarespace."
+description: "AI website builders compared — Wix, Hostinger, Framer, and Squarespace. Verified pricing and when each platform is the right choice."
 date: 2026-05-14
 draft: false
 tags: ["website-builder", "ai-tools", "wix", "web-design", "no-code"]

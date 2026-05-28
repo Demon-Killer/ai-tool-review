@@ -1,6 +1,6 @@
 ---
 title: "Best Free AI Tools in 2026: Genuinely Useful Tools That Cost Nothing"
-description: "A curated list of free AI tools that are actually worth using — covering writing, coding, design, research, and productivity. Every tool listed has a functional free tier with no credit card required."
+description: "Free AI tools that are actually worth using — writing, coding, design, research, and productivity. No credit card required."
 date: 2026-05-13
 draft: false
 tags: ["free-tools", "ai-tools", "productivity"]

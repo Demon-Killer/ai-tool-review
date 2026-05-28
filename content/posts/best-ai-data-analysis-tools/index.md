@@ -1,6 +1,6 @@
 ---
 title: "AI Data Analysis Tools in 2026: ChatGPT, Julius AI, Tableau, and Spreadsheets Compared"
-description: "A practical comparison of AI data analysis tools covering ChatGPT Advanced Data Analysis, Julius AI, Tableau, and Google Sheets AI. Includes verified pricing, file size limits, and when each tool is the right choice."
+description: "AI data analysis tools compared — ChatGPT, Julius AI, Tableau, and Google Sheets AI. Verified pricing and when to use each."
 date: 2026-05-14
 draft: false
 tags: ["data-analysis", "ai-tools", "analytics", "spreadsheets", "business"]

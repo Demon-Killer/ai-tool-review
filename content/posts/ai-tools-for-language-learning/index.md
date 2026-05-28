@@ -1,6 +1,6 @@
 ---
 title: "AI Tools for Language Learning in 2026: Duolingo, ChatGPT, and What Actually Works"
-description: "A practical comparison of AI language learning tools with verified pricing — Duolingo Super/Max, ChatGPT, and alternatives. Covers conversation practice, grammar coaching, and pronunciation training for every budget."
+description: "AI language learning tools compared — Duolingo, ChatGPT, and alternatives. Verified pricing for conversation, grammar, and pronunciation."
 date: 2026-05-13
 draft: false
 tags: ["language-learning", "ai-tools", "education", "productivity"]

@@ -1,6 +1,6 @@
 ---
 title: "AI vs Human Content in 2026: What Each Does Best and How to Use Both"
-description: "An honest analysis of AI-generated versus human-created content. Covers where AI produces quality output, where humans are irreplaceable, and the practical workflow for combining both effectively."
+description: "AI vs human content — where AI produces quality output, where humans are irreplaceable, and how to combine both effectively."
 date: 2026-05-15
 draft: false
 tags: ["ai-content", "future", "content-creation", "comparison", "trends"]

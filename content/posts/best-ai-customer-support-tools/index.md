@@ -1,6 +1,6 @@
 ---
 title: "AI Customer Support Tools in 2026: Pricing, Capabilities, and Honest Limitations"
-description: "A practical comparison of AI customer support platforms — Intercom Fin, Zendesk AI, Tidio, and tawk.to — with verified pricing, real capabilities, and where each tool genuinely saves time versus where it creates friction."
+description: "AI customer support compared — Intercom Fin, Zendesk AI, Tidio, and tawk.to. Verified pricing and where each tool saves time."
 date: 2026-05-15
 draft: false
 tags: ["customer-support", "chatbot", "ai-tools", "business", "helpdesk"]

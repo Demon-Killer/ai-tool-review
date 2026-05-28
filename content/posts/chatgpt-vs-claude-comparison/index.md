@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Claude in 2026: Which AI Assistant Should You Use"
-description: "A comparison of ChatGPT and Claude across writing, coding, research, math, and daily tasks. Covers verified pricing, model capabilities, and specific recommendations for each use case."
+description: "ChatGPT vs Claude compared across writing, coding, research, and daily tasks. Verified pricing and specific recommendations."
 date: 2026-05-13
 draft: false
 tags: ["chatgpt", "claude", "comparison", "ai-assistant"]

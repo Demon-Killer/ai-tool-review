@@ -1,6 +1,6 @@
 ---
 title: "AI Tools for Small Business in 2026: Cut Software Costs Without Cutting Capability"
-description: "A practical guide to replacing expensive SaaS subscriptions with free AI tools. Covers verified pricing for ChatGPT, Claude, Buffer, Perplexity, Tidio, Notion, and Canva — and how small businesses can save $200-400/month on software costs."
+description: "Replace expensive SaaS with free AI tools. Verified pricing showing how small businesses save $200-400/month on software costs."
 date: 2026-05-13
 draft: false
 tags: ["small-business", "ai-tools", "business", "savings", "productivity"]

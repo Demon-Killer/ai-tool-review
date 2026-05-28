@@ -1,6 +1,6 @@
 ---
 title: "AI Tools for Freelancers in 2026: Run a Solo Business with Free AI"
-description: "A practical guide to using AI tools for freelancing — proposals, client communication, contracts, invoicing, and content marketing. Covers verified free tools and the exact prompts that save the most time."
+description: "AI tools for freelancing — proposals, client emails, contracts, and marketing. Free tools and exact prompts that save the most time."
 date: 2026-05-13
 draft: false
 tags: ["freelancing", "ai-tools", "productivity", "business", "solo-business"]

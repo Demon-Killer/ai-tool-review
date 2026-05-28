@@ -1,6 +1,6 @@
 ---
 title: "AI SEO Tools in 2026: Semrush, Surfer SEO, and Free Alternatives Compared"
-description: "A practical comparison of AI-powered SEO tools with verified pricing — Semrush, Surfer SEO, and free alternatives using ChatGPT. Covers keyword research, content optimization, and when paid SEO tools are worth the investment."
+description: "AI SEO tools compared — Semrush, Surfer SEO, and free ChatGPT alternatives. Verified pricing, keyword research, and content optimization."
 date: 2026-05-14
 draft: false
 tags: ["seo", "ai-tools", "semrush", "surfer-seo", "marketing"]

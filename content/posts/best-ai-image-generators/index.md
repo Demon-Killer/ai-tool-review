@@ -1,6 +1,6 @@
 ---
 title: "Best AI Image Generators in 2026: Midjourney, DALL-E 3, Firefly, Stable Diffusion, Leonardo.ai"
-description: "A practical comparison of AI image generators with verified pricing — Midjourney v6, DALL-E 3, Adobe Firefly, Stable Diffusion, and Leonardo.ai. Covers what each tool does best, where each falls short, and how to choose based on your actual needs."
+description: "AI image generators compared — Midjourney, DALL-E 3, Firefly, Stable Diffusion, and Leonardo.ai. Verified pricing and best use cases."
 date: 2026-05-13
 draft: false
 tags: ["ai-image", "midjourney", "dall-e", "stable-diffusion", "image-generation"]

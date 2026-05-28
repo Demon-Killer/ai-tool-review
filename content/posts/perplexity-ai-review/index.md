@@ -1,6 +1,6 @@
 ---
 title: "Perplexity AI Review 2026: Pricing, Capabilities, and When to Use It"
-description: "An assessment of Perplexity AI covering verified pricing (free and Pro), core features, comparison with Google and ChatGPT for research, and practical workflows where Perplexity excels."
+description: "Perplexity AI review — verified pricing, core features, comparison with Google and ChatGPT, and where Perplexity excels."
 date: 2026-05-13
 draft: false
 tags: ["perplexity", "ai-search", "research", "review"]

@@ -1,6 +1,6 @@
 ---
 title: "AI Video Generation in 2026: Runway, Kling, Veo 2, Pika, and Sora Compared"
-description: "A practical comparison of AI video generators with verified pricing — Runway Gen-3, Kling 1.6, Google Veo 2, Pika 2.0, and OpenAI Sora. Covers what each tool actually produces, where AI video is usable today, and where it still falls short."
+description: "AI video generators compared — Runway, Kling, Veo 2, Pika, and Sora. Verified pricing, what works today, and where AI video falls short."
 date: 2026-05-13
 draft: false
 tags: ["ai-video", "sora", "runway", "video-generation", "content-creation"]

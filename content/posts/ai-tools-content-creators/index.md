@@ -1,6 +1,6 @@
 ---
 title: "AI Tools for Content Creators in 2026: The Complete Toolkit"
-description: "The essential AI tools for YouTubers, bloggers, podcasters, and social media creators — from ideation to publishing. Verified pricing and practical workflows for every stage of content creation."
+description: "Essential AI tools for YouTubers, bloggers, and podcasters. Verified pricing and workflows for every stage of content creation."
 date: 2026-05-14
 draft: false
 tags: ["content-creation", "ai-tools", "youtube", "blogging", "creator-economy"]

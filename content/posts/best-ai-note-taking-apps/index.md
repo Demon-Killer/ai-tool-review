@@ -1,6 +1,6 @@
 ---
 title: "AI Note-Taking Apps in 2026: Notion AI, Obsidian, Mem, Apple Notes, Evernote"
-description: "A practical comparison of AI note-taking apps with verified pricing — Notion AI, Obsidian + Copilot, Mem, Apple Notes, and Evernote. Covers each app's AI features, strengths, weaknesses, and which note-taking workflow each suits best."
+description: "AI note-taking apps compared — Notion AI, Obsidian, Mem, Apple Notes, and Evernote. Verified pricing and best use cases."
 date: 2026-05-13
 draft: false
 tags: ["note-taking", "notion", "obsidian", "ai-tools", "productivity", "knowledge-management"]

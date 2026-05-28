@@ -1,6 +1,6 @@
 ---
 title: "AI Tools for Resume Writing and Job Search in 2026: What Actually Helps You Get Hired"
-description: "A practical comparison of AI resume and job search tools with verified pricing — Teal AI, Jobscan, ChatGPT, and LinkedIn. Covers resume building, ATS optimization, interview prep, and what is worth paying for."
+description: "AI resume and job search tools — Teal AI, Jobscan, ChatGPT, and LinkedIn. Verified pricing, resume building, and interview prep."
 date: 2026-05-14
 draft: false
 tags: ["resume", "job-search", "career", "ai-tools", "productivity"]

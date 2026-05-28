@@ -1,6 +1,6 @@
 ---
 title: "AI Design Tools for Non-Designers in 2026: Create Professional Graphics Without Skills"
-description: "A practical comparison of AI design tools with verified pricing — Canva, Adobe Express, Microsoft Designer, and Figma AI. Covers what each tool produces, where AI design falls short, and which free tools are sufficient for most people."
+description: "AI design tools compared — Canva, Adobe Express, Microsoft Designer, and Figma AI. Verified pricing and which free tools suffice."
 date: 2026-05-14
 draft: false
 tags: ["design", "canva", "ai-tools", "graphic-design", "non-designers"]
