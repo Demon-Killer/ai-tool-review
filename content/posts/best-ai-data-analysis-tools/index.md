@@ -184,9 +184,9 @@ ChatGPT handles files up to ~100MB reliably. Beyond that, memory errors are comm
 
 ## Related Articles
 
-- [AI + Excel and Google Sheets Guide](/posts/best-ai-tools-excel-spreadsheets/)
 - [AI Coding Assistants Compared](/posts/best-ai-coding-assistants/)
 - [Best Free AI Tools That Cost Nothing](/posts/best-free-ai-tools/)
+- [ChatGPT vs Claude Comparison](/posts/chatgpt-vs-claude-comparison/)
 ## Bottom Line
 
 **ChatGPT Plus** for quick data analysis by asking questions ($20/month). **Julius AI** for presentation-quality charts from data. **Google Sheets AI** for free in-spreadsheet analysis. **Tableau** for professional business dashboards ($75/month per Creator). Start with ChatGPT or Google Sheets (both free options) and upgrade only when you need features they cannot provide.

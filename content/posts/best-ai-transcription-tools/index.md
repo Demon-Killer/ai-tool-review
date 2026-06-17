@@ -149,9 +149,9 @@ Descript for editing workflow (transcribe, edit, export captions). Whisper for b
 
 ## Related Articles
 
-- [AI Tools for Podcasting Compared](/posts/best-ai-tools-podcasting/)
 - [AI Voice Generation Compared](/posts/ai-voice-generators-comparison/)
 - [Best Free AI Tools That Cost Nothing](/posts/best-free-ai-tools/)
+- [AI Video Generation Tools Compared](/posts/ai-video-generation-tools/)
 ## Bottom Line
 
 **Whisper** (free) for unlimited transcription if you are comfortable with Python. **Otter.ai Pro** ($8.33/month annual) for live meeting transcription. **Descript** ($16/month annual) if you need transcription plus editing. **Rev** for maximum accuracy when cost is secondary. Most people should start with Whisper (free) or Otter.ai Free and upgrade only when the limitations become a real constraint.

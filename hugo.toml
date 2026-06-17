@@ -26,11 +26,8 @@ theme = 'PaperMod'
     Content = 'Independent AI tool reviews for developers, indie builders, and small technical teams. We focus on verified pricing, workflow fit, honest limitations, and ecosystem maturity — not marketing copy.'
 
   [[params.socialIcons]]
-    name = 'twitter'
-    url = 'https://twitter.com/'
-  [[params.socialIcons]]
-    name = 'github'
-    url = 'https://github.com/'
+    name = 'email'
+    url = 'mailto:lidonson666@gmail.com'
 
 [params.assets]
   favicon = '/favicon.ico'
@@ -47,25 +44,30 @@ theme = 'PaperMod'
     lineNos = false
 
 [[menu.main]]
-  identifier = 'categories'
-  name = 'Categories'
-  url = '/categories/'
-  weight = 10
-[[menu.main]]
-  identifier = 'tags'
-  name = 'Tags'
-  url = '/tags/'
-  weight = 20
-[[menu.main]]
   identifier = 'about'
   name = 'About'
   url = '/about/'
-  weight = 30
+  weight = 10
+[[menu.main]]
+  identifier = 'editorial-policy'
+  name = 'Editorial Policy'
+  url = '/editorial-policy/'
+  weight = 20
 [[menu.main]]
   identifier = 'contact'
   name = 'Contact'
   url = '/contact/'
+  weight = 30
+[[menu.main]]
+  identifier = 'privacy'
+  name = 'Privacy'
+  url = '/privacy-policy/'
   weight = 40
+[[menu.main]]
+  identifier = 'terms'
+  name = 'Terms'
+  url = '/terms-of-service/'
+  weight = 50
 
 [sitemap]
   changefreq = 'weekly'
