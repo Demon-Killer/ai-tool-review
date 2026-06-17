@@ -1,0 +1,30 @@
+{{- "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>" | safeHTML -}}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{{- range .Data.Pages -}}
+  {{- if and (ne .Draft true) (eq .Kind "page") -}}
+    {{- if or
+      (in .Permalink "/posts/ai-")
+      (in .Permalink "/posts/best-")
+      (in .Permalink "/posts/chatgpt-")
+      (in .Permalink "/posts/perplexity-")
+      (eq .Permalink (printf "%sabout/" .Site.BaseURL))
+      (eq .Permalink (printf "%scontact/" .Site.BaseURL))
+      (eq .Permalink (printf "%sprivacy-policy/" .Site.BaseURL))
+      (eq .Permalink (printf "%sterms-of-service/" .Site.BaseURL))
+      (eq .Permalink (printf "%seditorial-policy/" .Site.BaseURL))
+      (eq .Permalink (printf "%saffiliate-disclosure/" .Site.BaseURL))
+      (eq .Permalink (printf "%sdisclaimer/" .Site.BaseURL))
+    -}}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{- with .Lastmod }}<lastmod>{{ .Format "2006-01-02T15:04:05Z07:00" }}</lastmod>{{- end -}}
+  </url>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+  <url>
+    <loc>{{ .Site.BaseURL }}</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

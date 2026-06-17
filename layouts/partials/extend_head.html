@@ -2,7 +2,7 @@
 {{- if or (eq .Kind "taxonomy") (eq .Kind "term") -}}
 <meta name="robots" content="noindex, follow" />
 {{- end -}}
-{{- if and .Paginator (gt .Paginator.PageNumber 1) -}}
+{{- if and (ne .Kind "page") .Paginator (gt .Paginator.PageNumber 1) -}}
 <meta name="robots" content="noindex, follow" />
 {{- end -}}
 {{ partial "schema.html" . }}

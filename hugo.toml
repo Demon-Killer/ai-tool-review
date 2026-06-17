@@ -30,7 +30,8 @@ theme = 'PaperMod'
     url = 'mailto:lidonson666@gmail.com'
 
 [params.assets]
-  favicon = '/favicon.ico'
+  favicon = '/favicon.svg'
+  disableFingerprinting = true
 
 [outputs]
   home = ['HTML', 'RSS']
