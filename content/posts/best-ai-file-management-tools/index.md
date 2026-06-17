@@ -2,7 +2,7 @@
 title: "AI File Management Tools in 2026: Organize, Search, and Find Files Faster"
 description: "AI file management tools compared — Notion AI, Google Drive, Copilot, and local search. Where AI helps and where folders still win."
 date: 2026-05-18
-draft: false
+draft: true
 tags: ["file-management", "ai-tools", "productivity", "document-management", "organization"]
 categories: ["reviews"]
 ---

@@ -1,4 +1,8 @@
 <meta name="google-site-verification" content="9HkhOK3lCop1FhvC4vw9BLWEFlvsA2fX9VsxgW8rQKs" />
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8585303513382961"
-     crossorigin="anonymous"></script>
+{{- if or (eq .Kind "taxonomy") (eq .Kind "term") -}}
+<meta name="robots" content="noindex, follow" />
+{{- end -}}
+{{- if and .Paginator (gt .Paginator.PageNumber 1) -}}
+<meta name="robots" content="noindex, follow" />
+{{- end -}}
 {{ partial "schema.html" . }}

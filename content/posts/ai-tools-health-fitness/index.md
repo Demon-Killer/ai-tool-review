@@ -2,7 +2,7 @@
 title: "AI Health and Fitness Tools in 2026: What Helps and What Is Hype"
 description: "Honest assessment of AI fitness coaches and nutrition planners. Which AI features improve fitness and where traditional approaches work better."
 date: 2026-05-18
-draft: false
+draft: true
 tags: ["health", "fitness", "ai-tools", "nutrition", "wellness", "apps"]
 categories: ["reviews"]
 ---

@@ -2,7 +2,7 @@
 title: "AI Tools for Real Estate Agents in 2026: What Actually Helps You Close Deals"
 description: "AI tools for real estate — Zillow, Reonomy, Epique, and ChatGPT. Verified pricing and which tools are worth the investment for agents."
 date: 2026-05-15
-draft: false
+draft: true
 tags: ["real-estate", "ai-tools", "zillow", "property", "business"]
 categories: ["reviews"]
 ---

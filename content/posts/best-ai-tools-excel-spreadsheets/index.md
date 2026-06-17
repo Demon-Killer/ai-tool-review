@@ -2,7 +2,7 @@
 title: "AI + Excel and Google Sheets in 2026: Automate Spreadsheets Without Code"
 description: "AI for spreadsheets — ChatGPT formulas, Google Sheets AI, and Excel Copilot. Verified pricing and what each tool does."
 date: 2026-05-13
-draft: false
+draft: true
 tags: ["excel", "spreadsheets", "ai-tools", "productivity", "automation", "google-sheets"]
 categories: ["reviews"]
 ---

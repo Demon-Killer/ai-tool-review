@@ -2,7 +2,7 @@
 title: "How to Use Midjourney in 2026: Setup, Pricing, and Prompting Guide"
 description: "Complete guide to Midjourney — setup, pricing, prompting basics, parameters, and tips for professional AI images."
 date: 2026-05-13
-draft: false
+draft: true
 tags: ["midjourney", "ai-image", "guide", "tutorial", "prompt-engineering"]
 categories: ["guides"]
 ---

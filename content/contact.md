@@ -1,41 +1,55 @@
 ---
 title: "Contact Us"
-description: "Get in touch with the AI Tool Radar team. Send us your questions, feedback, or tool review requests."
-date: 2026-05-20
+description: "Get in touch with the AI Tool Radar team about corrections, tool review requests, or partnership inquiries."
+date: 2026-06-12
 draft: false
 layout: "single"
 ---
 
 ## Contact Us
 
-We would love to hear from you. Whether you have a question about our reviews, want to suggest a tool for us to test, or have feedback about the site, reach out through any of the methods below.
+We read every email. The fastest path depends on what you need — pick the matching subject line so we can route it correctly.
 
 ### Email
 
-For general inquiries and feedback:
-**lidonson666@gmail.com**
+All correspondence goes through: **lidonson666@gmail.com**
 
-For partnership and sponsorship inquiries:
-**lidonson666@gmail.com**
+To help us triage, use one of these subject prefixes:
 
-### Social Media
+- **`[Correction]`** — you found an error in an article (wrong price, broken link, outdated feature, factual mistake)
+- **`[Tool request]`** — you want us to review a specific AI tool
+- **`[Partnership]`** — vendor briefings, press access, or free trial access for review
+- **`[Licensing]`** — republishing or syndicating our content
+- **`[Other]`** — anything else
 
-Follow us for the latest AI tool reviews and updates:
+### What to Include
 
-- **Twitter/X**: Coming soon
-- **LinkedIn**: Coming soon
+**For corrections:** Tell us the article URL, the specific claim you believe is wrong, and a source we can verify (vendor page, changelog, official docs). We investigate every correction and update the article within 48 hours if the issue is confirmed.
 
-### Suggest a Tool for Review
+**For tool review requests:** Include the tool name, official website URL, the specific use case you care about, and what existing reviews get wrong about it. We prioritize tools with the most reader requests.
 
-Want us to review a specific AI tool? Send us an email with:
-- The tool name and website URL
-- What you use it for
-- What you would like to know about it
+**For partnership inquiries:** Vendor briefings and press access are welcome. Note that free access or vendor briefings do not influence review outcomes — they are disclosed on the article if they shaped our coverage. See our [Editorial Policy](/editorial-policy/) for details.
 
-We read every email and try to review the most requested tools.
+### Response Times
 
-### Reporting Issues
+- **Corrections:** Acknowledged within 24 hours, resolved within 48 hours
+- **Tool requests:** We reply to acknowledge receipt; reviews are scheduled based on editorial priority
+- **Partnership inquiries:** Within 2 business days
+- **General questions:** Within 48 hours
 
-If you find incorrect information in one of our reviews, please let us know. We take accuracy seriously and will update our content promptly.
+### What We Cannot Help With
 
-*We typically respond to emails within 24-48 hours.*
+We do not provide:
+
+- Individual tool selection consulting (our content is the extent of our advice)
+- Technical support for tools we review (contact the vendor)
+- Legal, financial, or medical advice
+- One-on-one AI strategy sessions
+
+If your question fits one of these, we will redirect you to the appropriate resource rather than ignore the email.
+
+### Reporting Security or Privacy Concerns
+
+If you believe the Site itself has a security issue or that we have mishandled personal data, email with the subject **`[Security]`**. We treat these with priority and respond within 12 hours.
+
+*Last updated: June 2026*

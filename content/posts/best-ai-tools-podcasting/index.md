@@ -2,7 +2,7 @@
 title: "AI Tools for Podcasting in 2026: Recording, Editing, Transcription, and Publishing"
 description: "AI podcasting tools compared — Descript, Otter.ai, Riverside, and free alternatives. Verified pricing for the full production workflow."
 date: 2026-05-14
-draft: false
+draft: true
 tags: ["podcasting", "ai-tools", "audio", "content-creation"]
 categories: ["reviews"]
 ---

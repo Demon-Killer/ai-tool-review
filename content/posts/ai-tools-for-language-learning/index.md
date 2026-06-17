@@ -2,7 +2,7 @@
 title: "AI Tools for Language Learning in 2026: Duolingo, ChatGPT, and What Actually Works"
 description: "AI language learning tools compared — Duolingo, ChatGPT, and alternatives. Verified pricing for conversation, grammar, and pronunciation."
 date: 2026-05-13
-draft: false
+draft: true
 tags: ["language-learning", "ai-tools", "education", "productivity"]
 categories: ["reviews"]
 ---

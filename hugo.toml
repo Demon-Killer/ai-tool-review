@@ -14,16 +14,16 @@ theme = 'PaperMod'
   ShowWordCount = true
   ShowFullTextinRSS = true
   showDescriptionInList = true
-  description = "In-depth reviews, comparisons, and guides for the best AI tools in 2026. We test every tool so you don't have to."
+  description = "Independent AI tool reviews for developers, indie builders, and small technical teams. Verified pricing, honest limitations, no fabricated testing."
   author = 'AI Tool Radar Team'
 
   [params.verify]
     google = '9HkhOK3lCop1FhvC4vw9BLWEFlvsA2fX9VsxgW8rQKs'
-  keywords = ['AI tools', 'AI reviews', 'AI comparisons', 'best AI tools 2026']
+  keywords = ['AI tools', 'AI reviews', 'AI comparisons', 'AI tools for developers', 'AI coding assistants']
 
   [params.homeInfoParams]
     Title = 'AI Tool Radar'
-    Content = 'Honest, in-depth reviews and comparisons of the best AI tools. We test every tool hands-on so you can pick the right one.'
+    Content = 'Independent AI tool reviews for developers, indie builders, and small technical teams. We focus on verified pricing, workflow fit, honest limitations, and ecosystem maturity — not marketing copy.'
 
   [[params.socialIcons]]
     name = 'twitter'
@@ -71,3 +71,6 @@ theme = 'PaperMod'
   changefreq = 'weekly'
   filename = 'sitemap.xml'
   priority = 0.5
+
+[pagination]
+pagerSize = 1000

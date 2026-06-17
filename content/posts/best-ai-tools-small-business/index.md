@@ -2,7 +2,7 @@
 title: "AI Tools for Small Business in 2026: Cut Software Costs Without Cutting Capability"
 description: "Replace expensive SaaS with free AI tools. Verified pricing showing how small businesses save $200-400/month on software costs."
 date: 2026-05-13
-draft: false
+draft: true
 tags: ["small-business", "ai-tools", "business", "savings", "productivity"]
 categories: ["reviews"]
 ---

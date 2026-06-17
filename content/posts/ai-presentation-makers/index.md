@@ -2,7 +2,7 @@
 title: "AI Presentation Makers in 2026: Gamma, Beautiful.ai, Tome, and PowerPoint Copilot Compared"
 description: "AI presentation tools compared — Gamma, Beautiful.ai, Tome, and Copilot in PowerPoint. Verified pricing and when each tool is worth using."
 date: 2026-05-13
-draft: false
+draft: true
 tags: ["presentations", "slides", "ai-tools", "design", "productivity"]
 categories: ["reviews"]
 ---
