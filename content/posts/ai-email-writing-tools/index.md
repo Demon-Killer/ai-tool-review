@@ -135,3 +135,7 @@ Edit the draft rather than regenerating. AI often gets the substance right but t
 ## Bottom Line
 
 **ChatGPT Free** for routine email drafts. **Claude Free** for difficult conversations and nuanced responses. Paste the email, explain what you want, review the draft, edit for your voice. No need for dedicated AI email tools — general-purpose AI chatbots handle email writing effectively at no cost.
+
+## Pricing Verification
+
+All prices in this article were verified against each vendor's official pricing page on **June 12, 2026**. We re-check pricing across all articles monthly. If you find outdated pricing, email **lidonson666@gmail.com** and we will update within 48 hours.

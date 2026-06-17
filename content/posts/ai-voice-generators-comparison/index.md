@@ -293,3 +293,7 @@ Start with OpenAI `tts-1` using the "echo" voice. It costs $0.015/1K chars, has 
 ## Bottom Line
 
 **OpenAI `tts-1`** for cost-effective batch generation at scale. **OpenAI `gpt-4o-mini-tts`** when you need runtime tone control via the `instructions` parameter. **ElevenLabs** when audio quality is the top priority and you can tolerate credit-based pricing and lower concurrency limits. The choice between them is not "which is better" — it is "which constraints can your architecture tolerate."
+
+## Pricing Verification
+
+All prices in this article were verified against each vendor's official pricing page on **June 12, 2026**. We re-check pricing across all articles monthly. If you find outdated pricing, email **lidonson666@gmail.com** and we will update within 48 hours.

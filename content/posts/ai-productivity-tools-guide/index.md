@@ -152,3 +152,7 @@ Only if you consistently hit free tier limits. For most users, the free tiers of
 ## Bottom Line
 
 **ChatGPT Free + Claude Free + Perplexity Free + Notion Free.** Four free tools that cover writing, research, email, and organization. Skip dedicated AI productivity apps — the general-purpose tools are better and cheaper (free). The key is using the right tool for each task, not stacking 10 tools that overlap.
+
+## Pricing Verification
+
+All prices in this article were verified against each vendor's official pricing page on **June 12, 2026**. We re-check pricing across all articles monthly. If you find outdated pricing, email **lidonson666@gmail.com** and we will update within 48 hours.

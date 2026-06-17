@@ -104,3 +104,7 @@ If you need one tool that does everything (text, images, data, browsing): ChatGP
 ## Bottom Line
 
 **Claude** for writing quality, accuracy, and long documents. **ChatGPT** for versatility, image generation, and data analysis. Use both free tiers — they complement each other. Pay for the one that matches your primary use case.
+
+## Pricing Verification
+
+All prices in this article were verified against each vendor's official pricing page on **June 12, 2026**. We re-check pricing across all articles monthly. If you find outdated pricing, email **lidonson666@gmail.com** and we will update within 48 hours.

@@ -155,3 +155,7 @@ Descript for editing workflow (transcribe, edit, export captions). Whisper for b
 ## Bottom Line
 
 **Whisper** (free) for unlimited transcription if you are comfortable with Python. **Otter.ai Pro** ($8.33/month annual) for live meeting transcription. **Descript** ($16/month annual) if you need transcription plus editing. **Rev** for maximum accuracy when cost is secondary. Most people should start with Whisper (free) or Otter.ai Free and upgrade only when the limitations become a real constraint.
+
+## Pricing Verification
+
+All prices in this article were verified against each vendor's official pricing page on **June 12, 2026**. We re-check pricing across all articles monthly. If you find outdated pricing, email **lidonson666@gmail.com** and we will update within 48 hours.

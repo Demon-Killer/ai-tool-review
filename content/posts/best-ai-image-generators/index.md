@@ -210,3 +210,7 @@ No coding, but significant technical setup. You need to install a UI (ComfyUI or
 ## Bottom Line
 
 **Midjourney** for the best quality ($10/month minimum). **DALL-E 3** for ease of use (free with ChatGPT). **Adobe Firefly** for commercial safety ($9.99-19.99/month). **Stable Diffusion** for free unlimited generation (requires GPU). Most creators benefit from using DALL-E 3 for quick tasks and Midjourney for anything requiring high visual quality.
+
+## Pricing Verification
+
+All prices in this article were verified against each vendor's official pricing page on **June 12, 2026**. We re-check pricing across all articles monthly. If you find outdated pricing, email **lidonson666@gmail.com** and we will update within 48 hours.

@@ -233,3 +233,7 @@ For B-roll and supplemental footage, yes. For primary talking-head replacement o
 ## Bottom Line
 
 AI video is useful today for social media B-roll, product reveals, and concept visualization. It is not ready for professional production. **Runway Gen-3** for quality ($12/month). **Kling** for free use. **Pika** for social clips and lip sync. Start with free tiers, set realistic expectations, and you will find genuine value for specific use cases.
+
+## Pricing Verification
+
+All prices in this article were verified against each vendor's official pricing page on **June 12, 2026**. We re-check pricing across all articles monthly. If you find outdated pricing, email **lidonson666@gmail.com** and we will update within 48 hours.

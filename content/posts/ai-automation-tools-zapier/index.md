@@ -231,3 +231,7 @@ Yes, but it requires rebuilding workflows. Export data (webhook URLs, API keys, 
 ## Bottom Line
 
 **Make** for complex workflows at the best price ($10.59/month for 10K operations). **Zapier** for beginners who want the easiest setup ($29.99/month for 750 tasks). **n8n** for developers who want free, private, unlimited automation (self-hosted, server costs only). Start with 2-3 automations that address your biggest time sinks — do not automate everything at once.
+
+## Pricing Verification
+
+All prices in this article were verified against each vendor's official pricing page on **June 12, 2026**. We re-check pricing across all articles monthly. If you find outdated pricing, email **lidonson666@gmail.com** and we will update within 48 hours.

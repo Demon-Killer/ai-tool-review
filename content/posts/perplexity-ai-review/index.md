@@ -147,3 +147,7 @@ More accurate than ChatGPT or Claude for factual queries because answers are gro
 ## Bottom Line
 
 **Perplexity Free** for daily research with source citations. **Perplexity Pro** ($20/month) if you research daily and need Deep Research and premium models. Perplexity complements ChatGPT and Claude — use Perplexity for research, ChatGPT or Claude for writing and creative tasks.
+
+## Pricing Verification
+
+All prices in this article were verified against each vendor's official pricing page on **June 12, 2026**. We re-check pricing across all articles monthly. If you find outdated pricing, email **lidonson666@gmail.com** and we will update within 48 hours.

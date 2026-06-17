@@ -201,3 +201,7 @@ Do not paste client-specific code, designs, or proprietary data into free AI too
 ## Bottom Line
 
 **ChatGPT Free** for proposals, emails, and contracts. **Claude Free** for writing and difficult communication. **Perplexity Free** for research. **Canva Free** for marketing materials. Four free tools that let you run a solo business in 15 hours per week. The ROI is not time saved — it is billable hours recovered from non-billable admin work.
+
+## Pricing Verification
+
+All prices in this article were verified against each vendor's official pricing page on **June 12, 2026**. We re-check pricing across all articles monthly. If you find outdated pricing, email **lidonson666@gmail.com** and we will update within 48 hours.

@@ -182,3 +182,7 @@ Azure Translator at $10/million characters. A typical 50-page website is roughly
 ## Bottom Line
 
 **DeepL** for the best quality on European languages. **Google Cloud Translation** for the widest language coverage. **Azure Translator** for the cheapest high-volume API. **GPT-4o** for context-aware translation where tone and nuance matter. For most developers building translation features, start with Azure Translator ($10/million characters) and switch to DeepL ($25/million characters) if quality on your specific language pair is insufficient.
+
+## Pricing Verification
+
+All prices in this article were verified against each vendor's official pricing page on **June 12, 2026**. We re-check pricing across all articles monthly. If you find outdated pricing, email **lidonson666@gmail.com** and we will update within 48 hours.

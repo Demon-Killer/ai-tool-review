@@ -166,3 +166,7 @@ ChatGPT Free. It handles the widest range of tasks — writing, brainstorming, m
 ## Bottom Line
 
 **ChatGPT Free + Claude Free + Perplexity Free** cover 90% of AI needs at zero cost. Add **Canva Free** for design, **GitHub Copilot Free** for coding, and **Notion Free** for organization. These seven free tools replace most paid AI subscriptions for individuals and small teams.
+
+## Pricing Verification
+
+All prices in this article were verified against each vendor's official pricing page on **June 12, 2026**. We re-check pricing across all articles monthly. If you find outdated pricing, email **lidonson666@gmail.com** and we will update within 48 hours.

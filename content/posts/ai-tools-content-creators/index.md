@@ -161,3 +161,7 @@ No. AI helps with production, but the creators who build audiences do so through
 ## Bottom Line
 
 Start with the **free stack**: ChatGPT for writing and ideation, Canva Free for design, CapCut for video. Upgrade to ChatGPT Plus ($20/month) when you need consistent access. Add Canva Pro ($15/month) when you create visual content daily. The free tools cover 80% of content creation needs.
+
+## Pricing Verification
+
+All prices in this article were verified against each vendor's official pricing page on **June 12, 2026**. We re-check pricing across all articles monthly. If you find outdated pricing, email **lidonson666@gmail.com** and we will update within 48 hours.

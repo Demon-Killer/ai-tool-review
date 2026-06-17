@@ -131,3 +131,7 @@ Only if you manage 5+ accounts or need enterprise features (team approval workfl
 ## Bottom Line
 
 **ChatGPT Free** for writing captions and content planning. **Canva Free** for visual design. **Buffer Free** for scheduling. This free stack covers the entire social media workflow. Upgrade to Canva Pro ($15/month) when you need Magic Resize and brand consistency. Skip expensive platforms like Hootsuite unless you manage multiple client accounts.
+
+## Pricing Verification
+
+All prices in this article were verified against each vendor's official pricing page on **June 12, 2026**. We re-check pricing across all articles monthly. If you find outdated pricing, email **lidonson666@gmail.com** and we will update within 48 hours.
