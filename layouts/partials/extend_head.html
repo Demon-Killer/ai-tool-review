@@ -1,8 +1,1 @@
-<meta name="google-site-verification" content="9HkhOK3lCop1FhvC4vw9BLWEFlvsA2fX9VsxgW8rQKs" />
-{{- if or (eq .Kind "taxonomy") (eq .Kind "term") -}}
-<meta name="robots" content="noindex, follow" />
-{{- end -}}
-{{- if and (ne .Kind "page") .Paginator (gt .Paginator.PageNumber 1) -}}
-<meta name="robots" content="noindex, follow" />
-{{- end -}}
 {{ partial "schema.html" . }}
